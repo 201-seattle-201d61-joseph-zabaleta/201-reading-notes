@@ -1,6 +1,13 @@
 #Reading Note 02
 
-##Chapter 2
+## HTML BOOK READINGS
 
+###Chapter 2
 
-##Chapter 10
+###Chapter 10
+
+## JS BOOK READINGS 
+
+###Chapter 2
+
+###Chapter 4
