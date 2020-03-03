@@ -14,7 +14,7 @@ White space is something used to make code clearer to read and as well as for ou
 
 Along with all these tags to describe the structure of the webpage, there are also tags for quotations, acronyms, and ways to apply emphasis on specific parts of text.
 
-### Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
+### Chapter 10: “Introducing CSS” (pp.226-245)
 
 Cascading Style Sheets, CSS. Each element on a webpage has its own space, its own box. This box maybe visable with a border or invisible. CSS allows us to manipulate these boxes, create rules, in order to achieve a desired outcome. Some examples would be width, height, borders, background color and images, and position.  Text can be changed by size, color, typeface, and upper/lower case.
 
