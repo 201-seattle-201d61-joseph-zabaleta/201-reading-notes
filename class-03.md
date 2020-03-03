@@ -1,4 +1,4 @@
-# Reading Notes 03
+# Reading Notes 02
 
 ## HTML BOOK READINGS
 
