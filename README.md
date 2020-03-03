@@ -4,5 +4,5 @@ This is a collection of all my notes for my reading assigments throughout the co
 
 ## Table of Contents
 
--[Reading class-01](class-01.md)
--[Reading class-02](class-02.md)
+- [Reading class-01](class-01.md)
+- [Reading class-02](class-02.md)
