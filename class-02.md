@@ -36,5 +36,10 @@ Key Note: Last rule applys, if there are identical selectors the last one will b
 
 What is a variable? In JavaScript we use variables to store data. Like a container. Each variable will have a name and is assigned a specific value. The value can be a numeric data type, string data type, and boolean data type.  
 
+Scripts are made up of statements which are linear and execute in order. Variables help us store data in smaller names or group large code into a single word, and arrays are a special variable that has multiple variables stored within.  JS using operators to calculate and return a value.
+
 
 ### Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
+
+In this chapter we talk about how our script can evaluate expressions and make a decision on which script to run next based on a certain value.  A flow chart is used to help identify the route your code should take, a yes or no can lead to script A or script B. This is the decision part. to be continued......
+
