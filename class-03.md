@@ -3,14 +3,14 @@
 ## HTML BOOK READINGS
 
 ### Chapter 3: "Lists" (pp.62-73)
-Overview of lists:
-Simply put there are three types of html lists:
-  -Ordered <ol>
-  -Unordered <ul>
-  -Definition <dl>
-
-They all function the same by listing items on a list with bullet points. 
-
+Overview of lists:  
+Simply put there are three types of html lists:  
+  -Ordered <ol>  
+  -Unordered <ul>  
+  -Definition <dl>  
+  
+They all function the same by listing items on a list with bullet points.  
+  
 * Key Note
   -Lists can be nested inside other lists.
 
@@ -68,10 +68,10 @@ To help eliminate errors and avoid unexpected truthy and falsy values its best t
 Short Circuit values come into play when logical operators are processed and have a result. They do not continue the script once a condition has been met or satisfied.
 
 -Looping
-There are three types of loops 'for' 'while' and 'for while' Loops run a code x amount of times per the conditions given
+There are three types of loops 'for' 'while' and 'Do while' Loops run a code x amount of times per the conditions given
   -'for' loop runs x amount of times and is the most common loop
   -'while' loop will continue to run code as long as the condition is true.
-  -'for while' loop has key difference from the 'while' loop and that is, it will run all the code at least once even if the conditions result in false.
+  -'Do while' loop has key difference from the 'while' loop and that is, it will run all the code at least once even if the conditions result in false.
 
 -'For' Loop
 This loop uses a counter as a condition. Instructs the code to run x amount of times. The condition has three statements
