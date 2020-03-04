@@ -2,7 +2,31 @@
 
 ## HTML BOOK READINGS
 
-### Chapter 4: Ch.4 “Links” (pp.74-93)
+### Chapter 4: Ch.4 “Links” (pp.74-93)  
+  
+* Writing Links  
+  - Link are created using the anchor tag <a></a>  
+  - Anchor tag utilizes the href attritube to  connect to page or path or id you choose.  
+
+
+  - Linking to other sites uses "url"  
+  - Linking to other pages on the same site "about-us.html"  
+    - Relative paths can be same folder, child, grandparent, just specify the path  
+
+  - Linking emails uses href=" 'mailto: email@here.com"
+    -  This will open a users email program to initiate an email.  
+
+  - Links can be opened in a new tab / new window utilizing a 'target' attribute.
+    - target="_blank"
+
+  - Linking to specific place on the current page  
+    - jumps to specific id elements  
+    - href="#---" or href="#idgoeshere"  
+
+  - Linking to a specific place on another page  
+    - Still utilizes id elements to jump too  
+      - href="url/#someidhere"  
+
 
 ### Chapter 15: “Layout” (pp.358-404) This layout chapter is BIG. Focus your attention on understanding the core concepts presented on pp.358-364
 
@@ -10,6 +34,7 @@
 
 ### Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 
+  
 ### Article: “6 Reasons for Pair Programming”
 
 Reasons as follows:  
@@ -33,25 +58,25 @@ Reasons as follows:
       - Working as a group deters the act of distracting habits such as facebook scrollilng  
       - Asking for help is a big part of collaboration. Fifteen minutes rule.  
 
-    * Learning from fellow students  
-      - Different approaches to problem solving  
-      - Different skill sets coming together  
-      - less experienced vs experienced developers  
-      - Defining topics in own words to learn  
+  * Learning from fellow students  
+    - Different approaches to problem solving  
+    - Different skill sets coming together  
+    - less experienced vs experienced developers  
+    - Defining topics in own words to learn  
   
-    * Social skills
-      - Improves social skills  
-      - Communication is key in teamwork and workplace  
-      - Develops interpesonal skills  
-      - Learn to put words to mouth about about code  
-  
-    * Job interview readiness  
-      - Interview processes include paired programming iwth employee and applicant  
-      - Shows collaboration style to employers  
-      - Ability to work with and learn from others is a desired trait in the workforce  
-  
-    * Work enviroment readiness
-      - Many companies expect to train new hires how to actually operate and use pair programming  
-      - Code fellows helps develop this skill before the real world  
+  * Social skills
+    - Improves social skills  
+    - Communication is key in teamwork and workplace  
+    - Develops interpesonal skills  
+    - Learn to put words to mouth about about code  
+
+  * Job interview readiness  
+    - Interview processes include paired programming iwth employee and applicant  
+    - Shows collaboration style to employers  
+    - Ability to work with and learn from others is a desired trait in the workforce  
+
+  * Work enviroment readiness
+    - Many companies expect to train new hires how to actually operate and use pair programming  
+    - Code fellows helps develop this skill before the real world  
 
     
