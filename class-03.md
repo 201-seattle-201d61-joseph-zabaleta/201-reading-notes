@@ -22,33 +22,33 @@ CSS can control how we manipulate these boxes in html by controling the border, 
 
 Highlights 
 
-* Box Dimensions
+* Box Dimensions  
   -Top, right, bottom, left
 
-* Limiting Width
+* Limiting Width  
   -min-width and max-width
 
-* Limiting Height
+* Limiting Height  
   -min-height and max-height
 
-* Overflowing Content
+* Overflowing Content  
   -overflow: hidden and overflow: scroll
 
-* Border, Margin, Padding
+* Border, Margin, Padding  
   -Border surrounds an element
   -Margin is the buffer on the outside of border
   -Padding is the space between the border and the content in the a box
 
-* White Space, Vertical Margin
+* White Space, Vertical Margin  
   -Space between items is refered to as White space.
   -Vertical margin top and bottom margins do not add but the largest one is used
 
-* Border Width, Style, and Color
+* Border Width, Style, and Color  
   -Border width: thin, medium, thick and can be expressed shorthand by 3px 3px 3px 3px , four values
   -Style: controls the look of the border such as: solid, dotted, dashed......
   -Color: border color on all sides or individual sides ... border-color: red;
 
-* Centering Content
+* Centering Content  
   -Can be tricky , but using auto in the margin along with setting the width of the box element. If you do not set the width, the element will not be able to auto adjust the left and right margins do center the object.
 
 ## JS BOOK READINGS 
