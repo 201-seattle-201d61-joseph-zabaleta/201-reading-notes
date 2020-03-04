@@ -3,9 +3,22 @@
 ## HTML BOOK READINGS
 
 ### Chapter 3: "Lists" (pp.62-73)
+Overview of lists:
+Simply put there are three types of html lists:
+  -Ordered <ol>
+  -Unordered <ul>
+  -Definition <dl>
+
+They all function the same by listing items on a list with bullet points. 
+
+* Key Note
+  -Lists can be nested inside other lists.
 
 ### Chapter 13: “Boxes” (pp.300-329)
 
+Boxes surround all elements in html, visible with border properties or invisible by default.
+
+CSS can control how we manipulate these boxes in html by controling the border, size, margins, padding and location in the browswer.
 
 
 ## JS BOOK READINGS 
