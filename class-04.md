@@ -13,7 +13,7 @@
   - Linking to other pages on the same site "about-us.html"  
     - Relative paths can be same folder, child, grandparent, just specify the path  
 
-  - Linking emails uses href=" 'mailto: email@here.com"
+  - Linking emails uses href=" 'mailto: email @here .com"
     -  This will open a users email program to initiate an email.  
 
   - Links can be opened in a new tab / new window utilizing a 'target' attribute.
