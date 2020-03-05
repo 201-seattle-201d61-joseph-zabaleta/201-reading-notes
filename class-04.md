@@ -65,6 +65,16 @@ Containing elements are those who contain a box within side its element.
 ## JS BOOK READINGS
 
 ### Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
+  
+## Functions
+
+* What is a function?  
+  - It allows you to group a series of statements together to perform a specific task.  
+  - When you want to use this function its "called" to action.  
+  - Pieces of information are added to a function to be passed through the function statements.  
+  - When a function is complete you expect an answer, this is called a return value.  
+    
+    To be continued...
 
   
 ### Article: “6 Reasons for Pair Programming”
