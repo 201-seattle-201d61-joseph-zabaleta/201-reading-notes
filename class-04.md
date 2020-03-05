@@ -8,7 +8,6 @@
   - Link are created using the anchor tag <a></a>  
   - Anchor tag utilizes the href attritube to  connect to page or path or id you choose.  
 
-
   - Linking to other sites uses "url"  
   - Linking to other pages on the same site "about-us.html"  
     - Relative paths can be same folder, child, grandparent, just specify the path  
@@ -29,6 +28,39 @@
 
 
 ### Chapter 15: “Layout” (pp.358-404) This layout chapter is BIG. Focus your attention on understanding the core concepts presented on pp.358-364
+
+## Key Concepts in Position Elements  
+  
+CSS Treats each HTML element as if it is in its own box. Building Blocks. This box will either be block-level box or inline box.  
+  * Block-Level elements:  
+    - Start on a new line  
+    - Examples: <h1> <p> <ul> <li>  
+    
+  * Inline Elements  
+    - Flow between surrounding text  
+    - Examples: <img> <b> <i>  
+  
+Containing elements are those who contain a box within side its element. 
+ - Example would be the <body> it contains the body of a webpage.
+
+## Controlling the position of elements  
+  
+  There are a few position schemes that CSS uses: Normal flow, Relative Position, Absolute Positioning, Fixed Positioning and Floating elements.  
+    - Box offset properties tell the browswer how far from the top or bottom, left or right it should be placed.  
+
+* Normal Flow  
+  - Each block-level element sits on top of each other on its own line.  
+  
+* Relative Positioning  
+  - Moves an element in relation to where it would have been in normal flow  
+  
+* Absolute Positioning  
+  - This takes the box out of normal flow and no longer affects the position of other elements on the page.
+  
+* Fixed Positioning  
+  - This is a type of Absolute positioning  
+  - It requires that position property to have a value of fixed  
+  - Positions an element in relation to the browswer window  
 
 ## JS BOOK READINGS
 
