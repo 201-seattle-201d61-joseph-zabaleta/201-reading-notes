@@ -10,3 +10,4 @@ You can treat `localStorage` object as an associative array. You can use bracket
 
 You can track the changes to the HTML Storage area, this is by trapping the storage event.  Whenever any changes happen on the window object that modifies anything part of html there is a listener that captures that information. You can use jQuery or other JS libraries to track these changes too.  
 
+There is only 5mb of space in the browswer localStorage to use. Good for small data , strings and not good for images.  
